@@ -1,0 +1,10 @@
+ilum-sales-etl/
+├── sql/
+│   ├── 01_clean_raw_data.sql
+│   ├── 02_create_aggregations.sql
+│   └── 03_data_validation.sql
+├── output/
+│   ├── sales_clean_sample.csv  (optional: sample output)
+│   └── sales_by_country.csv   (optional: sample output)
+├── README.md
+└── LICENSE  (optional)
